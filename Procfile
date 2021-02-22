@@ -1,0 +1,1 @@
+worker: node Normalno.js
